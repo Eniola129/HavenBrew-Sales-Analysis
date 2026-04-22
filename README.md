@@ -1,6 +1,5 @@
 # HavenBrew-Sales-Analysis
-Sales data analysis using Excel and Power BI
-# Sales and Profit Analysis Project
+Sales data analysis using Excel
 
 # 📊 Overview
 
@@ -38,12 +37,10 @@ This project analyzes sales and profit data to uncover key business insights acr
 
 # 📁 Project Files
 
- 
+- Excel dataset
+- Dashboard (Excel)  
 
-- Dashboard (Power BI / Excel)  
-
-## 🔗 Article
+# 🔗 Article
 
 Read the full analysis here:  
-
-https://medium.com/your-link
+(https://medium.com/@kikelomomercy12/sales-are-strong-but-profits-tells-a-different-story-insights-from-haven-brews-performance-28d222aab895)
